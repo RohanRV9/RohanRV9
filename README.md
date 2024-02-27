@@ -1,7 +1,8 @@
- Hi, My name is Rohan Venkatapuram,
+Hi, My name is Rohan Venkatapuram,
  
- I’m interested in Programming and Video Production, 
- and I’m currently learning Physics, Maths, Computer Science
+I’m interested in Programming, Video Production and Astrophysics.
+ 
+I’m currently learning Physics, Maths, Computer Science.
 
 <!---
 RohanRV9/RohanRV9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
