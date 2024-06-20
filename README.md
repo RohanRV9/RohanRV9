@@ -1,6 +1,6 @@
 Hi, My name is Rohan Venkatapuram,
  
-I’m interested in Programming, Video Production and Astrophysics.
+I’m interested in Computer Science, particularly Artificial Intelligence and Technology, as well as Video Production and Astrophysics
  
 I’m currently learning Physics, Maths, Computer Science.
 
